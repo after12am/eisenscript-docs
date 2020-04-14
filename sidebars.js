@@ -1,6 +1,22 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    GettingStarted: [
+      'getting-started-introduction',
+    ],
+    Reference: [
+      'reference-primitives',
+      'reference-transformations',
+      'reference-color-space-transformations',
+      'reference-preprocessor-commands',
+      'reference-rule-modifiers',
+      'reference-termination-criteria',
+      'reference-transparant'
+    ],
+    Tutorial: [
+      'tutorial-awesome-links'
+    ],
+    Examples: [
+      'example-alien',
+    ]
   },
 };
