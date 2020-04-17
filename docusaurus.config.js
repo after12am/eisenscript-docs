@@ -2,7 +2,7 @@ module.exports = {
   title: 'EisenScript',
   tagline: 'The tagline of EisenScript',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/eisenscript-docs/build/',
   favicon: '',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.

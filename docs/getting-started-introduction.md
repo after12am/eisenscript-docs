@@ -22,9 +22,9 @@ A set of those structures, you would get, has often been called ”generative ar
 
 Here are a couple of deliverables.
 
-![image](/img/octopod.png)
+![image](/eisenscript-docs/build/img/octopod.png)
 
-![image](/img/flaming-fuzzball.png)
+![image](/eisenscript-docs/build/img/flaming-fuzzball.png)
 
 Did you feel excited? I introduce you the world of EisenScript.
 
