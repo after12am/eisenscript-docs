@@ -19,14 +19,18 @@ module.exports = {
     Examples: [
       'example-alien',
       'example-boxes',
+      'example-city',
       'example-cubic',
+      'example-death-star',
       'example-flaming-fuzzball',
       'example-frames',
       'example-mondrian',
       'example-nabla',
       'example-octopod',
       'example-saturn',
-      'example-torus'
+      'example-steps',
+      'example-torus',
+      'example-tri-flake'
     ]
   },
 };
