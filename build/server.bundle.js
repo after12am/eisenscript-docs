@@ -16019,30 +16019,7 @@ rule r1 w 20 {
 }
 
 rule r1 {}
-`)),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])(Editor,{src:"https://after12am.github.io/eisenscript-editor/#B/lY7LCsIwEEX38xV3LbTMpETaz0kx0IWipBWjof/eSVLqTnA3j3MPd/YLbi5e/GOZIMxECTO4NVgxjkThefU6IBEgBickhIiO9e0crTvgXAW4Am90Z8xuUc+g4PcsOSdlm7JkVKLfyV5fQQ5lELxguHhrpQHhA6tBmytYRDWVSAWktObW5ub3+EtUTM2hav5xpXUD",mdxType:"Editor"}),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`code is:`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("pre",null,Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("code",Object(_Users_satoshi_Desktop_eisenscript_docs_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])({parentName:"pre"},{"className":"language-jsx","metastring":"{3-7}","{3-7}":true}),`set maxdepth 100
-
-{ x -10 s 0.2 } bb
-
-rule bb {
-  12 * { x 3 rx 30 } aa
-}
-
-rule aa {
-  10 * { ry 36 sat 0.9 } 10 * { ry 10 } 1 * { h 30 b 0.8 sat 0.8 } r1
-}
-
-rule r1 w 20 {
-  { s 0.9 rz 5 h 5 rx 5 x 1 } r1
-  { s 1 0.2 0.5 } box
-}
-
-rule r1 w 20 {
-  { s 0.99 rz -5 h 5 rx -5 x 1 } r1
-  { s 1 0.2 0.5 } box
-}
-
-rule r1 {}
-`)),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`Next, I sharpen the tips.`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])(Editor,{src:"https://after12am.github.io/eisenscript-editor/#B/lc5BCoMwEAXQfU7x1wVlJjZFjxNRcFFpiZamFe/uJLFaCi10l8z8efyhHdFb37TXsQMTKTVhAOUaM+paKXc7t/LApADWOGCC8yhI1taqeQ1YmwKUAg8UJwx2FKeS4D7mcMfx1wWklkS5JktZOd5Ix7hDU3RTpQruCSOHJlQw8CLFkxTg2JpyE5pf/C8oStlGZf9YgXF6n2j0DY5vevkN1x+4fuEL",mdxType:"Editor"}),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`code is:`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("pre",null,Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("code",Object(_Users_satoshi_Desktop_eisenscript_docs_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])({parentName:"pre"},{"className":"language-jsx","metastring":"{5}","{5}":true}),`set maxdepth 100
+`)),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`Next, I sharpen the tips.`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])(Editor,{src:"https://after12am.github.io/eisenscript-editor/#B/lc5BCoMwEAXQfU7x1wVlJjZFjxNRcFFpiZamFe/uJLFaCi10l8z8efyhHdFb37TXsQMTKTVhAOUaM+paKXc7t/LApADWOGCC8yhI1taqeQ1YmwKUAg8UJwx2FKeS4D7mcMfx1wWklkS5JktZOd5Ix7hDU3RTpQruCSOHJlQw8CLFkxTg2JpyE5pf/C8oStlGZf9YgXF6n2j0DY5vevkN1x+4fuEL",mdxType:"Editor"}),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`code is:`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("pre",null,Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("code",Object(_Users_satoshi_Desktop_eisenscript_docs_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])({parentName:"pre"},{"className":"language-jsx","metastring":"{23-30}","{23-30}":true}),`set maxdepth 100
 
 { s 0.2 } bb
 
@@ -16072,7 +16049,7 @@ rule r2 md 4 {
   { s 0.8 rz -5 h 5 rx -5 x 1 } r2
   { s 1 0.2 0.2 } box
 }
-`)),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`I randamize color this time. Looks cool!`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])(Editor,{src:"https://after12am.github.io/eisenscript-editor/#B/lc/BDoIwDAbg+57iP5tAtuEMPM4QEg7gTME4Jby73aZgTDTx1nZ/v3RjO2GwvmnPUwclpRAzRshcY0FdC0GXvuUCswCUxg4zyKOQOLreEcieGjdw1lqxPNPWprRM6RuKA0Y7MVpxcBtzxW3suiDWnCifyZKfSK0kKVyhZXTTfRXoDsOLJtxj4FmKKymg4hdkbsI3nP8FRSlbqewfKzCkt4nG0GD/ppffcP2B6xf+AA==",mdxType:"Editor"}),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`code is:`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("pre",null,Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("code",Object(_Users_satoshi_Desktop_eisenscript_docs_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])({parentName:"pre"},{"className":"language-jsx","metastring":"{23-30}","{23-30}":true}),`set maxdepth 100
+`)),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`I randamize color this time. Looks cool!`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])(Editor,{src:"https://after12am.github.io/eisenscript-editor/#B/lc/BDoIwDAbg+57iP5tAtuEMPM4QEg7gTME4Jby73aZgTDTx1nZ/v3RjO2GwvmnPUwclpRAzRshcY0FdC0GXvuUCswCUxg4zyKOQOLreEcieGjdw1lqxPNPWprRM6RuKA0Y7MVpxcBtzxW3suiDWnCifyZKfSK0kKVyhZXTTfRXoDsOLJtxj4FmKKymg4hdkbsI3nP8FRSlbqewfKzCkt4nG0GD/ppffcP2B6xf+AA==",mdxType:"Editor"}),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`code is:`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("pre",null,Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("code",Object(_Users_satoshi_Desktop_eisenscript_docs_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])({parentName:"pre"},{"className":"language-jsx","metastring":"{6}","{6}":true}),`set maxdepth 100
 
 { s 0.2 } bb
 
@@ -16102,7 +16079,7 @@ rule r2 md 4 {
   { s 0.8 rz -5 h 5 rx -5 x 1 } r2
   { s 1 0.2 0.2 } box
 }
-`)),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`Put two objects and change the size.`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])(Editor,{src:"https://after12am.github.io/eisenscript-editor/#B/lZBBDoIwEEX3PcVfm0DaYg0cpwgJC7BmwFhtuLtDi5CYaOJu5vfNy0zHdsJgfdNepw5KSiECPLIjRshcGcyo6xghRTolgm59ywWCAJTGAQHkUUicXe8IZC+NG5i1VswrbW2iZaIfKE4Y7cTSisE95orb2HWLsWaiXMmSn0htSlK4Q8voDXG/CvSE4UGz7GN4cZVGEqDiCTKPhzn/SxRN2abK/nEtGtJ7ojE0/IG7vfwm1x9y/Za/AA==",mdxType:"Editor"}),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`code is:`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("pre",null,Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("code",Object(_Users_satoshi_Desktop_eisenscript_docs_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])({parentName:"pre"},{"className":"language-jsx","metastring":"{3-4}","{3-4}":true}),`set maxdepth 100
+`)),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`Generate 2 objects and change the size each other. It looks good to rotate around the origin.`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])(Editor,{src:"https://after12am.github.io/eisenscript-editor/#B/lZBBDoIwEEX3PcVfm0DaYg0cpwgJC7BmwFhtuLtDi5CYaOJu5vfNy0zHdsJgfdNepw5KSiECPLIjRshcGcyo6xghRTolgm59ywWCAJTGAQHkUUicXe8IZC+NG5i1VswrbW2iZaIfKE4Y7cTSisE95orb2HWLsWaiXMmSn0htSlK4Q8voDXG/CvSE4UGz7GN4cZVGEqDiCTKPhzn/SxRN2abK/nEtGtJ7ojE0/IG7vfwm1x9y/Za/AA==",mdxType:"Editor"}),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("p",null,`code is:`),Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("pre",null,Object(_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__[/* mdx */ "b"])("code",Object(_Users_satoshi_Desktop_eisenscript_docs_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])({parentName:"pre"},{"className":"language-jsx","metastring":"{3-4}","{3-4}":true}),`set maxdepth 100
 
 { x -4 s 0.15 } bb
 { x  4 s 0.2 } bb

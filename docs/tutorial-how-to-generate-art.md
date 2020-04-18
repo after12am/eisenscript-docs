@@ -108,44 +108,13 @@ rule r1 w 20 {
 rule r1 {}
 ```
 
-
-<Editor src="https://after12am.github.io/eisenscript-editor/#B/lY7LCsIwEEX38xV3LbTMpETaz0kx0IWipBWjof/eSVLqTnA3j3MPd/YLbi5e/GOZIMxECTO4NVgxjkThefU6IBEgBickhIiO9e0crTvgXAW4Am90Z8xuUc+g4PcsOSdlm7JkVKLfyV5fQQ5lELxguHhrpQHhA6tBmytYRDWVSAWktObW5ub3+EtUTM2hav5xpXUD"/>
-
-code is:
-
-```jsx {3-7}
-set maxdepth 100
-
-{ x -10 s 0.2 } bb
-
-rule bb {
-  12 * { x 3 rx 30 } aa
-}
-
-rule aa {
-  10 * { ry 36 sat 0.9 } 10 * { ry 10 } 1 * { h 30 b 0.8 sat 0.8 } r1
-}
-
-rule r1 w 20 {
-  { s 0.9 rz 5 h 5 rx 5 x 1 } r1
-  { s 1 0.2 0.5 } box
-}
-
-rule r1 w 20 {
-  { s 0.99 rz -5 h 5 rx -5 x 1 } r1
-  { s 1 0.2 0.5 } box
-}
-
-rule r1 {}
-```
-
 Next, I sharpen the tips.
 
 <Editor src="https://after12am.github.io/eisenscript-editor/#B/lc5BCoMwEAXQfU7x1wVlJjZFjxNRcFFpiZamFe/uJLFaCi10l8z8efyhHdFb37TXsQMTKTVhAOUaM+paKXc7t/LApADWOGCC8yhI1taqeQ1YmwKUAg8UJwx2FKeS4D7mcMfx1wWklkS5JktZOd5Ix7hDU3RTpQruCSOHJlQw8CLFkxTg2JpyE5pf/C8oStlGZf9YgXF6n2j0DY5vevkN1x+4fuEL"/>
 
 code is:
 
-```jsx {5}
+```jsx {23-30}
 set maxdepth 100
 
 { s 0.2 } bb
@@ -185,7 +154,7 @@ I randamize color this time. Looks cool!
 
 code is:
 
-```jsx {23-30}
+```jsx {6}
 set maxdepth 100
 
 { s 0.2 } bb
@@ -218,7 +187,7 @@ rule r2 md 4 {
 }
 ```
 
-Put two objects and change the size.
+Generate 2 objects and change the size each other. It looks good to rotate around the origin.
 
 <Editor src="https://after12am.github.io/eisenscript-editor/#B/lZBBDoIwEEX3PcVfm0DaYg0cpwgJC7BmwFhtuLtDi5CYaOJu5vfNy0zHdsJgfdNepw5KSiECPLIjRshcGcyo6xghRTolgm59ywWCAJTGAQHkUUicXe8IZC+NG5i1VswrbW2iZaIfKE4Y7cTSisE95orb2HWLsWaiXMmSn0htSlK4Q8voDXG/CvSE4UGz7GN4cZVGEqDiCTKPhzn/SxRN2abK/nEtGtJ7ojE0/IG7vfwm1x9y/Za/AA=="/>
 
