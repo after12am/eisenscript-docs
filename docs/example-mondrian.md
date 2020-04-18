@@ -8,7 +8,7 @@ import { Editor } from './components.md';
 
 <Editor src="https://after12am.github.io/eisenscript-editor/#B/rVLLboMwELzzFSP1lqqOIQlVLpWqtCiXnNofMOAES4BTAw00yr93gQREHq0q1UjG3pnZ2bU9HlkrnYZGiRSLwpcMq+UCDuePzLKWIoPAWu5gZBpKo9IN/GKTMcas0dhKjkLLMkUscdpibwHjMd4jiUyVWItAZtBr5BQIyINg4dC0R4kHzmb4an+mwpzj0IP3t0GK2v2uGlLLAbUamvTg4Vi4cLCDg0SUodzmES2fEJ66eNvGKodKc418pxGJ+JO6USmVFyojg1zptLHJwNlkMoFNXzmorkZc1z0inDnuf/hXF/52V0F15m93FVTX/fdkSNvm1lSGJhxEWmeyfgFGpKFOEOhYG9Zq2vra3HV27rQw7jyP0yCH7KMQRnYutxV8yqfPzl8Unue9UqNXFPVB/qCiMVBRwy9G7JpnbkQiwxPWpGvXXT7O5rN2qg/X12UX5xRi1LQNH7y5ff4LA2cMu2a0tIZRXeS4ZPQ5Dt8="/>
 
-notation is:
+code:
 
 ```jsx
 /*

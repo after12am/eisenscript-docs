@@ -32,6 +32,10 @@ module.exports = {
               to: 'docs/reference-primitives',
             },
             {
+              label: 'Tutorial',
+              to: 'docs/tutorial-how-to-create-generative',
+            },
+            {
               label: 'Example',
               to: 'docs/example-alien',
             },

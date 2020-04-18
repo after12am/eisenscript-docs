@@ -7,7 +7,7 @@ sidebar_label: Saturn
 export const Editor = ({src}) => {
   var ss = require('url');
   var parsed = ss.parse(src);
-  parsed.search = 'docsite=1&doOptimize=1&show=0';
+  parsed.search = 'docsite=1&doOptimize=1&show=0&wireframe=1';
   return (
     <iframe class="demo" src={ss.format(parsed)}></iframe>
   )
@@ -15,7 +15,7 @@ export const Editor = ({src}) => {
 
 <Editor src="https://after12am.github.io/eisenscript-editor/#B/jY9NDoIwEIX3PcVL3JnYtICEc3ADok1cIJhBEqDp3ZlW5C8aTRedmff19Y1FgxgOTfFsqRKC2tJMDawANI6w6HGSZ6ZeXYOMJ0qqDLjUZU04GOUPvNHjZshsXiagAZFiMU7DkHpoNdt1SGTEpkr6ILkWboqR61WEjm83m0beLNRDmPOvK3JR+6B+J+Odp9qR7yhchyw25MymtamorvV9WfoznW7pX3jyHy7cCA=="/>
 
-notation is:
+code:
 
 ```jsx
 { s 3 } saturn

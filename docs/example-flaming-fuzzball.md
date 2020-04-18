@@ -7,7 +7,7 @@ sidebar_label: Flaming Fuzzball
 export const Editor = ({src}) => {
   var ss = require('url');
   var parsed = ss.parse(src);
-  parsed.search = 'docsite=1&doOptimize=1&show=0';
+  parsed.search = 'docsite=1&doOptimize=1&show=0&wireframe=1';
   return (
     <iframe class="demo" src={ss.format(parsed)}></iframe>
   )
@@ -16,7 +16,7 @@ export const Editor = ({src}) => {
 
 <Editor src="https://after12am.github.io/eisenscript-editor/#B/lZBBjsIwDEX3OYXXlVK3gQwablOFQKoWEjnplFL17mNCFxXSSMMu3/7v2zEWwqUU4hFxHMfy3Lemo9L4Kwbnk494Ie9/bO9Nh7v91+GgKqU1tjcM3vcyJhpMGsjG6ZYcigKFmCFCVSpYoGmEoKG3/IBrcz/ZkBzsYRYAM0xQPy1kViW3kriruahy1jfQA3Ya3GChrl7BW5fc2OSbb1lXiKHtbB7NhoLhx4uYQK/wAhdqT/8A5McEL/PpjL8QvlAGVJWBZzifmgt11vf8cZY5Wiy/"/>
 
-notation is:
+code:
 
 ```jsx
 /*

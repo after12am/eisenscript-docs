@@ -7,7 +7,7 @@ sidebar_label: Torus
 export const Editor = ({src}) => {
   var ss = require('url');
   var parsed = ss.parse(src);
-  parsed.search = 'docsite=1&doOptimize=1&show=0';
+  parsed.search = 'docsite=1&doOptimize=1&show=0&wireframe=1';
   return (
     <iframe class="demo" src={ss.format(parsed)}></iframe>
   )
@@ -15,7 +15,7 @@ export const Editor = ({src}) => {
 
 <Editor src="https://after12am.github.io/eisenscript-editor/#B/nY9LDoMwDET3PsVI7LpACahUHCcBQz+0kRKQoBF3rxPBBbqyPDN+tgPPeJvV2Sd3c4BulFJEEQaqrBHMLPWKHaN/fHr2FCRvTfcavVs+PYphGIj8MvGZQCSgbnBBhP9CK2yC0II4xS2J4pQVrFhtizt0JYHVupX2A5eazIqQszJANvRZSGM3dG5yHgUz52sT4S+AvHC8ewB+"/>
 
-notation is:
+code:
 
 ```jsx
 set maxobjects 16000

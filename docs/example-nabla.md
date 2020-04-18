@@ -8,7 +8,7 @@ import { Editor } from './components.md';
 
 <Editor src="https://after12am.github.io/eisenscript-editor/#B/jZDRCsIgGIXvfYpzHTR0ZdFr9AZbSgtWhi5yk717vzakwaIQxuH3+446pzs4rRXknjnK18orfe8aCM6YwAoBHmvB0acvRshpuM25/8hDypuULTkHjhq8KGl4FIzZR6spIDBA1cYngxc7WE8FiRm/UjJSsfEHR20D/sSW6p76cm46Inh08s5bpY6Ak2mNha1uylzhUNKK1xtByJzPXXJS6afQkS5NBK3Z4QtKiI/ORpmNFw=="/>
 
-notation is:
+code:
 
 ```jsx
 set seed 57

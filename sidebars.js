@@ -13,6 +13,7 @@ module.exports = {
       'reference-transparant'
     ],
     Tutorial: [
+      'tutorial-how-to-generate-art',
       'tutorial-awesome-links'
     ],
     Examples: [
