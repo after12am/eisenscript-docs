@@ -33,7 +33,7 @@ module.exports = {
             },
             {
               label: 'Tutorial',
-              to: 'docs/tutorial-how-to-create-generative',
+              to: 'docs/tutorial-how-to-generate-art',
             },
             {
               label: 'Example',
