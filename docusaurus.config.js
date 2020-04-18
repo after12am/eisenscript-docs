@@ -11,13 +11,7 @@ module.exports = {
       title: 'EisenScript',
       links: [
         {
-          to: 'docs/getting-started-introduction',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
-        },
-        {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/after12am/eisenscript-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -35,12 +29,16 @@ module.exports = {
             },
             {
               label: 'Reference',
-              to: 'docs/reference-transformations',
+              to: 'docs/reference-primitives',
+            },
+            {
+              label: 'Example',
+              to: 'docs/example-alien',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Satoshi Okami. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -49,7 +47,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
+          editUrl: 'https://github.com/after12am/eisenscript-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

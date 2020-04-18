@@ -17,6 +17,15 @@ module.exports = {
     ],
     Examples: [
       'example-alien',
+      'example-boxes',
+      'example-cubic',
+      'example-flaming-fuzzball',
+      'example-frames',
+      'example-mondrian',
+      'example-nabla',
+      'example-octopod',
+      'example-saturn',
+      'example-torus'
     ]
   },
 };
