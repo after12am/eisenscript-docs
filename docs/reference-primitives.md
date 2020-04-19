@@ -68,19 +68,17 @@ point
 ```
 -->
 
-<!--
 ## Triangle
 
 creates a custom polygon. Specify the coordinates as follows: Triangle[0,0,0;1,0,0;0.5,0.5,0.5]
 
-<Editor src="https://after12am.github.io/eisenscript-editor/#B/y8nMSwUA"/>
+<Editor src="https://after12am.github.io/eisenscript-editor/#B/KynKTMxLz0kFAA=="/>
 
 notation is:
 
 ```jsx
 triangle
 ```
--->
 
 <!--
 ## Mesh
@@ -121,3 +119,16 @@ notation is:
 tube
 ```
 -->
+
+## Squash
+
+crushed shape.
+
+<Editor src="https://after12am.github.io/eisenscript-editor/#B/Ky4sTSzOAAA="/>
+
+notation is:
+
+```jsx
+squash
+```
+
