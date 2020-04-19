@@ -24,6 +24,7 @@ module.exports = {
       'example-death-star',
       'example-flaming-fuzzball',
       'example-frames',
+      'example-kite',
       'example-mondrian',
       'example-nabla',
       'example-octopod',

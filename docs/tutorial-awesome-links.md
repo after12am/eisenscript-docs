@@ -10,5 +10,3 @@ sidebar_label: Awesome Links
 - [Eisen script - programmed graphics](https://www.reddit.com/r/woahdude/comments/1qmqc2/eisen_script_programmed_graphics/)
 - [Humphrey Hippo's Blog](https://humphreyhippo.wordpress.com/)
 - [Context Free Art](https://www.contextfreeart.org/gallery/)
-- [random_torus_kites-6](https://www.flickr.com/photos/33807726@N02/3258023102/in/photostream/)
-
