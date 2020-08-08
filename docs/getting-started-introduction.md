@@ -28,6 +28,7 @@ Here are a couple of deliverables.
 
 Did you feel excited? I introduce you the world of EisenScript.
 
+[Demo](https://after12am.github.io/eisenscript-editor/?show=0)
 
 # Notes
 
